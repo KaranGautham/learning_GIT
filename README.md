@@ -1,2 +1,2 @@
 # learning_GIT
-THis is my first GIT repo
+THis is my first GIT Repo
