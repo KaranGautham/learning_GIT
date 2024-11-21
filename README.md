@@ -3,4 +3,4 @@
 <br>
 THis is my first GIT Repo
 <br>
-Practising to use and learn some command
+Practising to learn and use some git command
